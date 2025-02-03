@@ -6,4 +6,4 @@
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Condelfbm&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Condelfbm&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Condelfbm&layout=compact)
